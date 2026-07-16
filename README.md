@@ -23,4 +23,7 @@
 
 ---
 ## Documentation
-Further details are in the documentation. **This is an ongoing project**
+Further details are in the documentation.This repository only contains the code base for the **ongoing** project.
+
+## Project Status
+**WIP**
